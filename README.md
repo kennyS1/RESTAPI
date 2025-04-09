@@ -1,3 +1,3 @@
 # RESTAPI
 ***
-### Python REST API | How to Build a Flask REST API
+### Python REST API | Build a Flask REST API
